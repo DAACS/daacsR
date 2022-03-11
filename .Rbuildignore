@@ -1,0 +1,5 @@
+^daacsR\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+config.R
+build.R

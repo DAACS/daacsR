@@ -1,0 +1,15 @@
+Package: daacsR
+Title: Diagnostic Assessment and Achievement of College Skills R Package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jason", "Bryer", , "jason.bryer@cuny.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-2454-0402"))
+Description: Utility functions to access DAACS database and manipulate data for analysis.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    dplyr,
+    ggplot2,
+    mongolite
